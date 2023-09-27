@@ -27,17 +27,6 @@
 <p>node server.js</p>
 <p>npm run test</p>
 <p>npm i</p>
-## Usage Information
-
-<p>used to keep notes for work use</p> 
-
-## Test Instructions
-
-<p></p> 
-
-## Contribution
-
-<p></p> 
 
 ## License
 
